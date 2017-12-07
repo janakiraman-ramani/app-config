@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2716792f-a099-487f-b776-a03faed2e04f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/greeting-config.yml" afterPath="$PROJECT_DIR$/greeting-config.yml" />
-    </list>
+    <list default="true" id="2716792f-a099-487f-b776-a03faed2e04f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -195,12 +193,12 @@
       <option name="presentableId" value="Default" />
       <updated>1512608105308</updated>
       <workItem from="1512608106677" duration="9000" />
-      <workItem from="1512608221199" duration="1492000" />
+      <workItem from="1512608221199" duration="2093000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1501000" />
+    <option name="totallyTimeSpent" value="2102000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="63" width="1376" height="837" extended-state="0" />
