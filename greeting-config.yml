@@ -13,6 +13,6 @@ logging:
         mylab: DEBUG
 
 greeting:
-  displayFortun: true
+  displayFortune: true
 
 quoteServiceURL: http://quote-service-dev.cfapps.io/quote
